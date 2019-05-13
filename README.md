@@ -1,9 +1,3 @@
-# Densely-Connected-Neural-Network-in-Object-Detection
-Densely Connected Neural Network in  Object Detection
-Densely Connected Neural Network in 
-Object Detection
-Penny Brant, Nathan Sun, Victor Luo
-
 Motivation
 As of 2018, The WHO (World Health Organization) estimated that there are approximately 1.3 billion people around the globe who live with some form of vision impairment. Of those, approximately 285 million are completely blind, and 90% of them live in a developing country.  Therefore many visually impaired citizens around the globe do not have access, nor the financial support to afford assistive technology.
 
