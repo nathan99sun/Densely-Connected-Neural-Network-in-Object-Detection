@@ -212,4 +212,4 @@ for epoch in range(start_epoch, start_epoch+10):
     learning_rate = np.random.uniform(0.1, 0.00004)
     size = np.random.randint(16, 64)
     #batch = np.random.randint(100, 200)
-test()
+test() #25%
